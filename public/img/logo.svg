@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Herieth-Lab">
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#10383F" stroke="#10383F" stroke-width="2"/>
+  <path d="M15.5 30h11v13.5a5.5 5.5 0 0 1-11 0z" fill="#56AEFF"/>
+  <path d="M37.5 24h11v19.5a5.5 5.5 0 0 1-11 0z" fill="#C08AF0"/>
+  <rect x="26" y="29" width="12" height="7" rx="1.5" fill="#F5A524"/>
+  <g fill="none" stroke="#EAF4F2" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 13h16M15.5 13v30.5a5.5 5.5 0 0 0 11 0V13"/>
+    <path d="M35 13h16M37.5 13v30.5a5.5 5.5 0 0 0 11 0V13"/>
+  </g>
+  <circle cx="21" cy="38" r="1.8" fill="#FFFFFF" fill-opacity=".85"/>
+  <circle cx="44" cy="30" r="1.5" fill="#FFFFFF" fill-opacity=".85"/>
+  <circle cx="42" cy="40" r="2.1" fill="#FFFFFF" fill-opacity=".85"/>
+</svg>
